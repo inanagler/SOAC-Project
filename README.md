@@ -1,7 +1,3 @@
-# SOAC-Project
-Assigned Project for "Simulating Ocean, Atmosphere and Climate" course of Climate Pysica at University Utrecht
-
-
 The Nordic Seas are a significant source of dense water in the Atlantic Meridional Overturning Circulation (AMOC). Heat loss drives the mixing of water masses, known as deep convection, which plays a vital role in propelling the oceanic thermohaline circulation (Lazier, 2001).
 Located north of Iceland, the Nordic Seas form the main connection between the North Atlantic and the Arctic Ocean. They are one of the most prominent examples of a marginal sea, defined as the transition zone between the subtropics and the polar regions. Warm and saline Atlantic water enters this marginal sea from the south by flowing over the Greenland-Scotland Ridge (Blindheim, 2005). 
 
@@ -12,6 +8,10 @@ Fresh and cold water enters the Nordic Seas from the Arctic. The incremental mix
 To understand the controlling factors that define basic characteristics of exchange between the marginal sea and southern basin, simple conceptual models are employed. Previous studies (Spall, 2011; Spall, 2012; Lambert 2018) characterize the marginal sea as having a motionless interior body and a cyclonic boundary current. Spall has shown that wind forcing has very little impact on the exchange of heat between the boundary current and interior body. It is ocean eddies that are the main carriers of heat across the Greenland-Scotland Ridge and into the interior (Spall 2011). Eddies are therefore of critical importance to represent a realistic exchange of heat in the marginal sea. 
 
 By including salinity, this study presents a significant expansion of Spall's (2001) conceptual model, allowing for a more accurate representation of the importance of both temperature and salinity as drivers of Nordic sea circulation. In order to gain a better understanding of the processes that define water mass transformation and the meridional overturning, a comparison between these two models will be conducted. In an additional step, the groundwork for a model including spatial dependence will be expounded and initial results will be presented.
+
+
+
+
 
 References:
 
